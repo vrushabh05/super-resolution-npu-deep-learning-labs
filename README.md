@@ -4,7 +4,7 @@ Coursework from the Deep Learning for edge devices series (DATA 255, San José S
 
 | Lab | Folder | Status |
 |---|---|---|
-| Lab 2: DenoiseSRNet, ONNX to MXQ, NPU benchmark | [`lab2_denoisesrnet`](lab2_denoisesrnet) | Deployment scripts and results: **18.3x faster than CPU, 22.400 dB on the NPU** (training notebook to be added) |
+| Lab 2: DenoiseSRNet, ONNX to MXQ, NPU benchmark | [`lab2_denoisesrnet`](lab2_denoisesrnet) | Complete: **18.3x faster than CPU, 22.400 dB on the NPU** |
 | Lab 3: 2x super-resolution with LiteSRNet, ONNX to MXQ, NPU benchmark | [`lab3_litesrnet`](lab3_litesrnet) | Complete: **4.2x faster than CPU, 24.283 dB on the NPU** |
 
 ![Validation PSNR](assets/lab3_training_curve.png)

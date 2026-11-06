@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.onnx
+*.mxq
+*.pt
+*.pth
+data/
